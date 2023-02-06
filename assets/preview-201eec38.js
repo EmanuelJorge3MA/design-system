@@ -1,0 +1,2 @@
+import{t as a}from"./index-66301289.js";import"./es.object.get-own-property-descriptor-037fa860.js";import"./es.map.constructor-7191d149.js";import"./es.number.to-fixed-3c0460d7.js";import"./index-39d17dc8.js";const c={actions:{argTypesRegex:"^on[A-Z].*"},controls:{matchers:{color:/(background|color)$/i,date:/Date$/}},docs:{theme:a.dark},backgrounds:{default:"grau",values:[{name:"blc",value:"#012"},{name:"grau",value:"#272829"},{name:"black",value:"#000"},{name:"white",value:"#fff"}]}};export{c as parameters};
+//# sourceMappingURL=preview-201eec38.js.map

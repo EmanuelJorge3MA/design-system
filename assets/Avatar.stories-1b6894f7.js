@@ -1,0 +1,2 @@
+import{A as t}from"./index-a79be8d6.js";import"./index-39d17dc8.js";import"./es.object.get-own-property-descriptor-037fa860.js";import"./index-f97499ea.js";const e={title:"Data display/Avatar",component:t,args:{src:"https://github.com/emanueljorge3ma.png",alt:"Emanuel Jorge"},argTypes:{src:{control:{type:"text"}}}},i={},m={parameters:{backgrounds:{default:"light"}},args:{src:void 0}},c=["Primary","WithFallback"];export{i as Primary,m as WithFallback,c as __namedExportsOrder,e as default};
+//# sourceMappingURL=Avatar.stories-1b6894f7.js.map
