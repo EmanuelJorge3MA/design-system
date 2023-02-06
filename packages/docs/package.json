@@ -1,5 +1,5 @@
 {
-  "name": "@ignite-ui/docs",
+  "name": "@ema-3/docs",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -29,9 +29,9 @@
     "vite": "^4.1.1"
   },
   "dependencies": {
-    "@ignite-ui/react": "*",
-    "@ignite-ui/tokens": "*",
-    "@ignite-ui/ts-config": "*",
+    "@ema-3/react": "*",
+    "@ema-3/tokens": "*",
+    "@ema-3/ts-config": "*",
     "@storybook/addon-a11y": "^6.5.16",
     "phosphor-react": "^1.4.1",
     "polished": "^4.2.2",
